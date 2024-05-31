@@ -1,8 +1,12 @@
-# React + Vite
+# React Phone Numbers Agenda
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple phonebook application developed in React. It allows the user to add, delete, and view contacts, maintaining an organized list of phone numbers.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- View contacts.
+- Add new contacts with names and phone numbers.
+- Delete existing contacts.
+- Intuitive and easy-to-use user interface.
+
+In this project, we utilize the `useState` hook from React to manage the state of contacts in the application.
