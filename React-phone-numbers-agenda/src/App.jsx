@@ -58,7 +58,7 @@ function App() {
                 <div>
                   <button
                     type="button"
-                    className="btn-close"
+                    className="btn-x"
                     onClick={() => setModalOpenNewContact(false)}
                     aria-label="Close"
                   >
@@ -85,12 +85,12 @@ function App() {
                     <div>
                       <button
                         type="button"
-                        className="btn-close-save"
+                        className="btn-close"
                         onClick={() => setModalOpenNewContact(false)}
                       >
                         Close
                       </button>
-                      <button type="submit" className="btn-close-save">
+                      <button type="submit" className="btn-save">
                         Save
                       </button>
                     </div>
