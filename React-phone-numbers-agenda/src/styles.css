@@ -16,7 +16,7 @@
 }
 
 .addNewContact {
-  font-size: 28px;
+  font-size: 1.75rem;
   background-color: mediumseagreen;
   color: white;
   border: none;
@@ -24,14 +24,14 @@
   cursor: pointer;
   width: 50px;
   height: 50px;
-  margin: 20px;
-  margin-left: 150px;
-  margin-top: -10px;
+  margin: 1.25rem;
+  margin-left: 9.3rem;
+  margin-top: -0.6rem;
   transition: all 0.3s ease;
 }
 
 .addNewPhone:hover {
-  transform: translateY(-5px);
+  transform: translateY(-0.31rem);
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
 }
 
@@ -40,7 +40,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 20px;
+  padding: 1.25rem;
   border-radius: 20px;
   background-color: #333;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
@@ -49,8 +49,8 @@
 }
 
 h2 {
-  font-size: 18px;
-  margin-bottom: 20px;
+  font-size: 1.1rem;
+  margin-bottom: 1.25rem;
   color: #fff;
 }
 
@@ -63,9 +63,9 @@ h2 {
 }
 
 .phonesData {
-  font-size: 15px;
-  margin-bottom: 10px;
-  padding: 15px 20px;
+  font-size: 0.9rem;
+  margin-bottom: 0.6rem;
+  padding: 0.9rem 1.25rem;
   border-radius: 10px;
   max-width: 90%;
   background-color: #555;
@@ -96,7 +96,7 @@ h2 {
   background-color: transparent;
   border: none;
   cursor: pointer;
-  margin-left: 10px;
+  margin-left: 0.6rem;
 }
 
 .phonesData button svg {
@@ -122,7 +122,7 @@ h2 {
   color: #333;
   background-color: white;
   border-radius: 10px;
-  padding: 2em;
+  padding: 2rem;
   max-width: 300px;
   height: 350px;
   top: 50%;
@@ -131,25 +131,25 @@ h2 {
 }
 
 .modal-content h5 {
-  font-size: 1.1em;
-  margin-top: 2.3em;
-  margin-bottom: 0.5em;
+  font-size: 1.1rem;
+  margin-top: 2.3rem;
+  margin-bottom: 0.5rem;
 }
 
 .modal-content input[type="text"] {
   width: 100%;
-  padding: 0.8em;
-  margin-bottom: 1em;
+  padding: 0.8rem;
+  margin-bottom: 1rem;
   border: 1px solid #ddd;
-  border-radius: 0.5em;
+  border-radius: 0r5em;
 }
 
 .modal-content button[type="button"],
 .modal-content button[type="submit"] {
-  padding: 0.8em 1.5em;
-  margin-bottom: 0.5em;
+  padding: 0.8rem 1.5rem;
+  margin-bottom: 0.5rem;
   border: none;
-  border-radius: 0.5em;
+  border-radius: 0.5rem;
   cursor: pointer;
 }
 
@@ -165,24 +165,24 @@ h2 {
 
 .modal-content button[type="submit"]:hover,
 .modal-content button[type="button"]:hover {
-  transform: translateY(-0.3em);
-  box-shadow: 0 0.5em 1em rgba(0, 0, 0, 0.2);
+  transform: translateY(-0.3rem);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2);
 }
 
 .modal button.btn-close {
-  margin-left: 0.5em;
+  margin-left: 0.5rem;
 }
 
 .modal .btn-close,
 .modal .btn-save {
-  margin: 0.5em;
+  margin: 0.5rem;
 }
 
 .btn-x {
-  font-size: 0.7em;
+  font-size: 0.7rem;
   font-weight: 700;
-  margin-left: 18em;
-  margin-top: -0.5em;
+  margin-left: 12rem;
+  margin-top: -0.5rem;
   border: none;
   cursor: pointer;
   transition: all 0.3s ease;
