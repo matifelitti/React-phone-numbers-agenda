@@ -25,7 +25,7 @@ Follow these steps to run the application locally:
 1️⃣ **Clone the repository**
 
 ```sh
-git clone https://github.com/your-username/react-phonebook.git
+git clone https://github.com/matifelitti/react-phonebook.git
 cd react-phonebook
 ```
 
